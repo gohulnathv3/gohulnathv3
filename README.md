@@ -2,7 +2,7 @@
 Hi 👋 My name is Gohul Nath V
 =============================
 
-Data Scientist and software developer
+Data Scientist and Application developer
 -------------------------------------
 
 I've been learning and coding since 2020, However, I've learned a lot and have been updating myself rigorously for elevate my profile to accomplish my dreams and achieve my goals. I'm technically sounded good in Python, Machine Learning, Data Analysis, Data cleaning, creating REST API services, creating microservices using spring boot, produce and consuming messages using apache kafka and Angular frameworks as well as other databases such as mongodb, sql and reddis.
