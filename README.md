@@ -4,7 +4,7 @@ Hi 👋 My name is Gohul Nath V
 Data Scientist and Application Developer
 ----------------------------------------
 
-I've been learning and coding since 2020, however, I've learned a lot and have been updating myself rigorously for elevating my profile to accomplish my dreams and achieve my goals. I technically sounded good in Python, Machine Learning, Data Analysis, Data cleaning, creating REST API services, creating Microservices using spring boot, produce and consuming messages using Apache Kafka. Moreover, I'm skilled in Angular frameworks, as well as other databases such as MongoDB, SQL, and Redis.
+I've been learning and coding since 2020, however, I've learned a lot and have been updating myself rigorously for elevating my profile to accomplish my dreams and achieve my goals. I technically sounded good in Python, Machine Learning, Data Analysis, Data cleaning, creating REST API services, creating Microservices using Spring boot, produce and consuming messages using Apache Kafka. Moreover, I'm skilled in Angular frameworks, as well as other databases such as MongoDB, SQL, and Redis.
 
 * 🌍  I'm based in Chennai, India.
 * ✉️  You can contact me at [gohul.va@gmail.com](mailto:gohul.va@gmail.com)
