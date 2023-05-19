@@ -8,7 +8,7 @@ Full Stack Developer and Data Scientist
 * 🖥️  See my portfolio at [Gohul Nath V](http://sites.google.com/view/gohulnathv/home)
 * ✉️  You can contact me at [gohul.va@gmail.com](mailto:gohul.va@gmail.com)
 * 🧠  I'm learning MERN Stack, Artificial Intelligence
-* 🤝  I'm open to collaborating on Open Source and AT & T, USA
+* 🤝  I'm collaborating on Open Source and AT & T, USA
 * ⚡  Never underestimate the power of you.
 
 ### Skills
